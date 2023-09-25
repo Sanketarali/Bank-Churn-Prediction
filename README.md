@@ -49,7 +49,55 @@ data.isnull().sum()<br>
 
 <h3>The dataset doesn’t have any null values</h3>
 
-# Bank Churn Prediction model
+<h3> Dropping Irrelevant Features</h3>
+
+![image](https://github.com/Sanketarali/Bank-Churn-Prediction/assets/110754364/c6510a83-1f06-458e-9ffb-33f7d83e0460)
+
+<h3>Encoding Categorical Data</h3>
+
+![image](https://github.com/Sanketarali/Bank-Churn-Prediction/assets/110754364/bcc9d123-e870-4203-aa74-0b9d234a8b0f)
+
+![image](https://github.com/Sanketarali/Bank-Churn-Prediction/assets/110754364/59d01444-56c6-4fbe-a30e-ed0e9a1c1926)
+
+<h3>Not Handling Imbalanced</h3>
+
+![image](https://github.com/Sanketarali/Bank-Churn-Prediction/assets/110754364/ea248359-a80c-4da1-828a-80668ba5e17b)
+
+<h3>Handling Imbalanced Data With SMOTE</h3>
+
+![image](https://github.com/Sanketarali/Bank-Churn-Prediction/assets/110754364/2806c0fb-0773-4b38-b67f-a5277e3948aa)
+
+<h3>Splitting The Dataset Into The Training Set And Test Set</h3>
+
+![image](https://github.com/Sanketarali/Bank-Churn-Prediction/assets/110754364/86ae59ad-d5d4-48b9-b99d-b2ef80aa64ea)
+
+<h3>Importing the Models</h3>
+
+![image](https://github.com/Sanketarali/Bank-Churn-Prediction/assets/110754364/5b7a9fe6-adf3-4be9-8cd9-ae9601807047)
+
+![image](https://github.com/Sanketarali/Bank-Churn-Prediction/assets/110754364/c568d234-3aba-4049-8e06-da778ae834ee)
+
+<h3>Prediction on Test Data</h3>
+
+![image](https://github.com/Sanketarali/Bank-Churn-Prediction/assets/110754364/4a3bacf2-8f01-4928-972b-fc7dc2d04512)
+
+<h3>Evaluating the Algorithm</h3>
+
+![image](https://github.com/Sanketarali/Bank-Churn-Prediction/assets/110754364/8b008ecc-f9b7-4b89-aa5f-c7a461a4646b)
+
+![image](https://github.com/Sanketarali/Bank-Churn-Prediction/assets/110754364/04401ab7-17af-408b-b4e1-445e9fbf69f4)
+
+<h3>. Save The Model</h3>
+
+![image](https://github.com/Sanketarali/Bank-Churn-Prediction/assets/110754364/3ebd15ed-209d-45b9-955b-7350736fb7ce)
+
+![image](https://github.com/Sanketarali/Bank-Churn-Prediction/assets/110754364/fdade11f-2dd4-438c-bfe0-3251722856c0)
+
+
+
+
+
+
 
 
 
